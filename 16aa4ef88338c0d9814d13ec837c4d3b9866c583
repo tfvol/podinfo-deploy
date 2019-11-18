@@ -1,0 +1,1 @@
+{"jobID":"f4c889c1-ac32-880f-a011-c4cdacabc559","spec":{"type":"policy","cause":{"Message":"","User":"Terry French \u003ctf.vols@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
